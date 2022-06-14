@@ -15,4 +15,4 @@ Fork the repository and send pull requests for review
 
 ### Copyright
 
-2022 Git.Training.
+2022 Git.Training. Copyrights reserved.
