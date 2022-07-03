@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Mamatha mamatha@git.com mk@git.com
+    Mamatha Kannan mamatha@git.com @mamathak
 
 # THANKS
 
